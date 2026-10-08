@@ -1,0 +1,12 @@
+{
+  "name": "ai-growth-os",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "x:run": "node src/x-reply/index.js"
+  },
+  "dependencies": {
+    "oauth-1.0a": "^2.2.6",
+    "openai": "^6.6.0"
+  }
+}
